@@ -1,0 +1,8 @@
+{
+  "name": "Luyện Tư Vấn Tuyển Sinh AI",
+  "description": "Ứng dụng luyện tập kỹ năng tư vấn tuyển sinh cùng với khách hàng giả lập bằng AI dựa trên tài liệu tuyển sinh của trường.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
